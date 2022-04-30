@@ -1,0 +1,22 @@
+[
+{
+"name": "Abhi",
+"email": "abhi@example.com",
+"statuscode": 200
+},
+{
+"name":  "Sneha",
+"email": "sneha@example.com",
+"statuscode": 200
+},
+{
+"name": "Anand",
+"email": "anand@example.com",
+"statuscode": 200
+},
+{
+"name": "Chanchal",
+"email": "chanchal@example.com",
+"statuscode": 200
+}
+]
